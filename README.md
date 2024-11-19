@@ -4,12 +4,12 @@ Anon E-Commerce cloned website
 
 ## Landing Page
 
-![Landing Page](screenshots/landing-page.png)
+![Landing Page](https://github.com/Clituschris/anon-site-demo/blob/main/public/screenshots/landing-page.png)
 
 ## Product Page
 
-![Product Page](screenshots/product-page.png)
+![Product Page](https://github.com/Clituschris/anon-site-demo/blob/main/public/screenshots/product-page.png)
 
 ## Footer
 
-![Footer](screenshots/footer.png)
+![Footer](https://github.com/Clituschris/anon-site-demo/blob/main/public/screenshots/footer.png)
